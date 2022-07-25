@@ -1,7 +1,7 @@
 # WDDM5
 
-##23rd July 2022
-##---------------
+## 23rd July 2022
+## ---------------
 1. What is a Computer?
 2. What is IT?
 3. What is a software and explain types of software with examples?
@@ -17,8 +17,8 @@
 13. What is a gateway?
 
 
-##24th July 2022
-##---------------
+## 24th July 2022
+## ---------------
 1. What is Client server architecture?
 2. What is 2, 3 and n-Tier architecture?
 3. What are static and dynamic webpages?
